@@ -1,0 +1,22 @@
+{
+  "name": "toad",
+  "version": "1.0.0",
+  "description": "A toady package.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoeNelson/Toad.git"
+  },
+  "keywords": [
+    "toad"
+  ],
+  "author": "Zoe Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZoeNelson/Toad/issues"
+  },
+  "homepage": "https://github.com/ZoeNelson/Toad#readme"
+}
